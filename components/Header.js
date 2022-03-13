@@ -34,7 +34,7 @@ const Home = () => {
           <input className={style.searchInput} placeholder='Search items, colections, and accounts'/>
         </div>
         <div className={style.headerItems}>
-          <Link href='/collections'>
+          <Link href='/collections/0x885e2189190c754414Cca1023De5d4666682b8eF'>
             <div className={style.headerItem}>Collections</div>
           </Link>
           <div className={style.headerItem}>Stats</div>
